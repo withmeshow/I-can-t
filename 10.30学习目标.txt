@@ -1,0 +1,12 @@
+回调函数	必须掌握明白
+push();
+pop();
+unshift();
+shift();
+spilce();	必须
+sort(function(){
+	return a- b;
+});
+indexof();
+join();
+普通字符串和包装对象字符串的关系
